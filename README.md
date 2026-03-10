@@ -9,4 +9,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+## Array
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
