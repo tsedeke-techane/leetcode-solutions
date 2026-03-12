@@ -5,5 +5,6 @@ class Solution:
         for i in range(n):
             if i != nums[i]:
                 return i
+
         return n
         
