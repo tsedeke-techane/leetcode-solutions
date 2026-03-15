@@ -13,5 +13,3 @@ class Solution:
             num.sort()
         return ans
 
-        
-
