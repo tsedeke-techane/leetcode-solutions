@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0268-missing-number) |
 | [1929-concatenation-of-array](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
