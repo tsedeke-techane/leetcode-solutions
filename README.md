@@ -52,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0027-remove-element) |
+## String
+|  |
+| ------- |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 <!---LeetCode Topics End-->
