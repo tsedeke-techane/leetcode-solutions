@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1929-concatenation-of-array](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Math
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Simulation
 |  |
@@ -52,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0027-remove-element) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
