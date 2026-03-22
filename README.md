@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1929-concatenation-of-array](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0268-missing-number) |
 | [2427-number-of-common-factors](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 ## Binary Search
@@ -65,9 +67,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
