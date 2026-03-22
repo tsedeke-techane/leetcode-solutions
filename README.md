@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0268-missing-number) |
+| [2427-number-of-common-factors](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/2427-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
