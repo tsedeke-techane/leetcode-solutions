@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 ## Enumeration
 |  |
