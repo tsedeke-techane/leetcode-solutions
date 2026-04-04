@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Simulation
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2109-adding-spaces-to-a-string](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
 | ------- |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0231-power-of-two) |
+## Greedy
+|  |
+| ------- |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
