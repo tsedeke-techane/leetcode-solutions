@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Array
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
@@ -107,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/tsedeke-techane/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
